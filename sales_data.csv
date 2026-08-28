@@ -1,0 +1,21 @@
+OrderID,Product,Region,Quantity,Price,Revenue
+1,Office Chair,East,3,149.99,449.97
+2,Wireless Earbuds,West,5,49.99,249.95
+3,Running Shoes,South,4,79.99,319.96
+4,Wireless Earbuds,East,1,49.99,49.99
+5,Office Chair,South,4,149.99,599.96
+6,Coffee Maker,North,1,59.99,59.99
+7,Office Chair,North,5,149.99,749.95
+8,Bluetooth Speaker,East,2,39.99,79.98
+9,Bluetooth Speaker,West,3,39.99,119.97
+10,Running Shoes,East,1,79.99,79.99
+11,Office Chair,South,4,149.99,599.96
+12,Running Shoes,East,5,79.99,399.95
+13,Running Shoes,North,2,79.99,159.98
+14,Wireless Earbuds,East,2,49.99,99.98
+15,Office Chair,North,1,149.99,149.99
+16,Coffee Maker,North,4,59.99,239.96
+17,Wireless Earbuds,East,4,49.99,199.96
+18,Wireless Earbuds,South,3,49.99,149.97
+19,Bluetooth Speaker,South,3,39.99,119.97
+20,Bluetooth Speaker,East,1,39.99,39.99
