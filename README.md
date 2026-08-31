@@ -1,60 +1,54 @@
-# sales-analytics-project
-Sales Analytics Project using Python and Excel
 # 📊 Sales Analytics Project
 
 ## 📌 Project Overview
 
-This project analyzes sales data using Python and creates an Excel-based Sales Dashboard.
+This is a personal Data Analytics project created to practice data analysis, data visualization, and dashboard development.
 
-The dashboard helps understand sales performance by region and product and provides useful revenue insights through charts and KPIs.
+The project analyzes sales data to understand sales performance, revenue trends, and key business insights using Python and Excel.
+
+> **Note:** This project uses generated/sample data for learning and portfolio purposes.
 
 ## 🛠️ Tools & Technologies
 
 - Python
 - Pandas
-- OpenPyXL
-- Excel
-- CSV
+- Matplotlib
+- Microsoft Excel
+- Data Analysis
+- Data Visualization
 
-## 📂 Project Files
+## 📁 Project Files
 
 | File | Description |
 |---|---|
-| `sales_data.csv` | Sales dataset |
-| `generate_data.py` | Generates sales data |
-| `analyze.py` | Performs sales analysis |
+| `generate_data.py` | Generates sample sales data |
+| `analyze.py` | Performs sales data analysis |
 | `build_excel.py` | Creates the Excel dashboard |
-| `Sales_Dashboard.xlsx` | Completed Excel dashboard |
-| `revenue_chart.png` | Revenue chart |
+| `Sales_Dashboard.xlsx` | Final Excel dashboard |
+| `Sales_Dashboard_Screenshot.png` | Dashboard preview |
+| `revenue chart.png` | Revenue visualization |
 
-## 📈 Dashboard Features
+## 📊 Dashboard Features
 
-- Total Revenue
-- Total Orders
-- Average Revenue
-- Highest Revenue
-- Revenue by Region
-- Revenue by Product
-- Revenue Trend
-- Revenue Share by Region
+- Total Sales / Revenue
+- Sales performance analysis
+- Revenue trends
+- Product/category analysis
+- Data-driven insights
+- Excel dashboard
 
-## 📊 Visualizations
+## 📈 Visualizations
 
-The project includes:
+The project includes visualizations to understand:
 
-- Bar Chart – Revenue by Region
-- Bar Chart – Revenue by Product
-- Line Chart – Revenue Trend
-- Pie Chart – Revenue Share by Region
+- Revenue trends
+- Sales performance
+- Product-wise sales
+- Category-wise performance
 
-## 🎯 Project Objective
+## ▶️ How to Run
 
-The main objective is to analyze sales data and present meaningful insights using Python and Excel visualization techniques.
-
-## 🚀 How to Run
-
-1. Install Python.
-2. Install the required libraries:
+### 1. Clone the repository
 
 ```bash
-pip install pandas openpyxl
+git clone https://github.com/VIKASHINEE-S/sales-analytics-project.git
